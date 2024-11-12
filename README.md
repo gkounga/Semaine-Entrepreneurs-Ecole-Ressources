@@ -41,4 +41,6 @@ Cette ressource a été créée dans le cadre de la Semaine des Entrepreneurs à
 
 ---
 
-Ces ressources sont conçues pour inspirer et soutenir les jeunes entrepreneurs durant la Semaine des Entrepreneurs à l'École, en les connectant aux diverses initiatives disponibles au Québec. Explorez-les pour découvrir des opportunités d’apprentissage, de réseautage et de développement de projet ! N'hésitez pas à contribuer en ajoutant d'autres ressources si vous constatez que des éléments sont manquants.
+Ces ressources sont conçues pour inspirer et soutenir les jeunes entrepreneurs durant la Semaine des Entrepreneurs à l'École, en les connectant aux diverses initiatives disponibles au Québec. Explorez-les pour découvrir des opportunités d’apprentissage, de réseautage et de développement de projet ! 
+
+N'hésitez pas à contribuer en ajoutant d'autres ressources si vous constatez que des éléments sont manquants.
