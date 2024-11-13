@@ -8,7 +8,7 @@ Cette ressource a été créée dans le cadre de la Semaine des Entrepreneurs à
   [Lien vers le site](https://eequebec.com/)
 
 - **AEQ - Accès Entreprise Quebec** - Service d’accompagnement offert par les municipalités régionales de comté (MRC) pour soutenir les entrepreneurs dans les régions du Québec.  
-  [Lien vers le site (AEQ - Québec)](https://www.economie.gouv.qc.ca/bibliotheques/accompagnement/acces-entreprise-quebec)
+  [Lien vers le site](https://www.economie.gouv.qc.ca/bibliotheques/accompagnement/acces-entreprise-quebec)
 
 - **OSEntreprendre** - Initiative visant à inspirer le désir d’entreprendre au Québec, en soutenant les nouveaux entrepreneurs par des concours, des bourses, et des occasions de réseautage.  
   [Lien vers le site](https://www.osentreprendre.quebec/)
