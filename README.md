@@ -8,20 +8,20 @@ Cette ressource a été créée dans le cadre de la Semaine des Entrepreneurs à
   [Lien vers le site](https://eequebec.com/)
 
 - **AEQ - Accès Entreprise Quebec** - Service d’accompagnement offert par les municipalités régionales de comté (MRC) pour soutenir les entrepreneurs dans les régions du Québec.  
-  [Lien vers le site (AEQ - Québec)](https://www.aeq-quebec.com/)
+  [Lien vers le site (AEQ - Québec)](https://www.economie.gouv.qc.ca/bibliotheques/accompagnement/acces-entreprise-quebec)
 
 - **OSEntreprendre** - Initiative visant à inspirer le désir d’entreprendre au Québec, en soutenant les nouveaux entrepreneurs par des concours, des bourses, et des occasions de réseautage.  
   [Lien vers le site](https://www.osentreprendre.quebec/)
 
-  - **Association des clubs d’entrepreneurs étudiants (ACEE) du Québec** - Réseau d'étudiants entrepreneurs au Québec qui favorise l'esprit entrepreneurial dans les institutions d'enseignement québécois.  
+- **Association des clubs d’entrepreneurs étudiants (ACEE) du Québec** - Réseau d'étudiants entrepreneurs au Québec qui favorise l'esprit entrepreneurial dans les institutions d'enseignement québécois.  
   [Lien vers le site](https://acee.qc.ca/)
 
 ## Programmes et formations
 
 - **Certificat en entrepreneuriat et création d'entreprise - HEC Montréal** - Programme de formation universitaire destiné aux entrepreneurs pour les aider à acquérir des compétences clés en création d'entreprises.  
-  [Lien vers le site](https://www.hec.ca/programmes/certificats/entrepreneuriat/index.html)
+  [Lien vers le site](https://www.hec.ca/programmes/certificats/certificat-entrepreneuriat-creation-entreprise/index.html)
 
-  - **Parcours entrepreneurial en cybersécurité et équité numérique - Polytechnique Montréal** - Programme de formation qui combine les principes d’entrepreneuriat, de cybersécurité et d'équité numérique, destiné à ceux souhaitant développer des compétences dans ces domaines.  
+- **Parcours entrepreneurial en cybersécurité et équité numérique - Polytechnique Montréal** - Programme de formation qui combine les principes d’entrepreneuriat, de cybersécurité et d'équité numérique, destiné à ceux souhaitant développer des compétences dans ces domaines.  
   [Lien vers le site](https://www.parcours-entrepreneuriaux.polymtl.ca/parcours-entrepreneurial-en-cybersecurite-et-equite-numerique/)
 
 ## Ressources en ligne
